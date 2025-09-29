@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+line-bot-sdk
+opencv-python
+mediapipe
+requests
